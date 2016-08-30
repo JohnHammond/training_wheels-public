@@ -2,13 +2,13 @@ The "Training Wheels" Shell
 ========================
 
 <p align="center">
-  <img src="https://github.com/JohnHammond/blob/master/pictures/bash.png?raw=true" alt=""/>
+  <img src="https://github.com/JohnHammond/training_wheels-public/blob/master/pictures/bash.png?raw=true" alt=""/>
 </p>
 
 To help you become a bit more acquainted with the [Linux][Linux] [command-line], the [`bash`][bash] shell, a _prototype_ idea is to let you interact with a "training wheels" shell, which tries to kind of hold your hand and guide you through running commands and learning different concepts in [Linux].
 
 <p align="center">
-  <img src="https://github.com/JohnHammond/blob/master/pictures/load_a_lesson.png?raw=true" alt=""/>
+  <img src="https://github.com/JohnHammond/training_wheels-public/blob/master/pictures/load_a_lesson.png?raw=true" alt=""/>
 </p>
 
 It is ___not___, by any means, a complete product or a one-size-fits-all utility. The hope is to see if this works well as a teaching tool -- if it fails and turns out to be a flop, we will move on from it or try a new tactic.
@@ -16,7 +16,7 @@ It is ___not___, by any means, a complete product or a one-size-fits-all utility
 _But_, it is my hope, that this interactive tool will help ingrain commands and syntax into your head, and you will gain a better understanding of how things all fit together in the command-line. Please give feedback, comments, concerns and criticisms as they come to you.
 
 <p align="center">
-  <img src="https://github.com/JohnHammond/blob/master/pictures/running.png?raw=true" alt=""/>
+  <img src="https://github.com/JohnHammond/training_wheels-public/blob/master/pictures/running.png?raw=true" alt=""/>
 </p>
 
 __If this tool does turn out to be a success, I will add more content and "modules" to it as the weeks develop.__
